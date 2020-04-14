@@ -1,4 +1,4 @@
-# Real-Time-Object-Detection-in-Autonomous-Driving-Using-HybridNET-YOLO-FlowNet     ____
+# Real-Time Object Detection in Autonomous Driving Using HybridNET YOLO FlowNet
 
 ## Requirements
  - numpy v1.18.1
